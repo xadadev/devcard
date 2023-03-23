@@ -11,7 +11,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br><br>👨‍💻 All of my projects are available at [https://xada.netlify.app] (xada)<br><br>📫 How to reach me wahabzada00@gmail.com</p>
+<p align="left">✨ Creating bugs since 2017<br><br>👨‍💻 All of my projects are available at [xada] (xada.netlify.app)
+  <br><br>📫 How to reach me wahabzada00@gmail.com</p>
 
 ###
 
